@@ -9,5 +9,5 @@
 - 💅 Build: [North America Chesshub](https://www.nachesshub.com/), [Personal Website](https://mudssrali.github.io/) etc...
 - 🌱 Learning all about **Educational Tools | Distributed Systems | Open Source**
 - 💬 Ping me about **design**, **development**, **exlir**, **C#** **reactjs**, **typescript**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/mudssrali)
+- 📫 Reach me: [twitter.com/mudssrali](https://twitter.com/mudssrali)
 - ⚡️ Fun fact: I started working with computer programs at the age of 14 with `GW-BASIC`
