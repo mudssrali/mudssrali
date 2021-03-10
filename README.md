@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Lahore, Pakistan.
+#### I'm Fullstack Software Developer working in Lahore, Pakistan.
 
-- 🏢 I'm currently working at **CERP LABS**
+- 🏢 I'm currently working at **[CERP LABS](https://labs.cerp.org.pk)**
 - ⚙️ I use daily: `.ex`, `.cs`, `.ts`, `.js`, `tsx`, `.html`, `.css`, `.svg`, `.md`
 - 🌍 I'm ocassionaly active within the **JS & TS community**
-- 🔭 Working on: [MISchool.pk](https://mischoo.pk), [IlmExchange](https://ilmexchange.com) etc…
-- 💅 Build: [North America Chesshub](https://www.nachesshub.com/), [Personal Website](https://mudssrali.github.io/) etc...
+- 🔭 Working on: [MISchool.pk](https://mischoo.pk), [IlmExchange](https://ilmexchange.com) etc
+- 💅 Build: [North America Chesshub](https://www.nachesshub.com/),[MondayJobs](https://mondayjobs.ca), [Personal Website](https://mudssrali.github.io/) etc...
 - 🌱 Learning all about **Educational Tools | Distributed Systems | Open Source**
 - 💬 Ping me about **design**, **development**, **exlir**, **C#** **reactjs**, **typescript**, **design thinking**
 - 📫 Reach me: [twitter.com/mudssrali](https://twitter.com/mudssrali)
