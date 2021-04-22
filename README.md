@@ -8,7 +8,7 @@
 - 🔭 Working on: [MISchool.pk](https://mischoo.pk), [IlmExchange](https://ilmexchange.com) etc
 - 💅 Build: [North America Chesshub](https://www.nachesshub.com/),[MondayJobs](https://mondayjobs.ca), [Personal Website](https://mudssrali.github.io/) etc...
 - 🌱 Learning all about **Educational Tools | Distributed Systems | Open Source**
-- 💬 Ping me about **design**, **development**, **exlir**, **C#** **reactjs**, **typescript**, **design thinking**
+- 💬 Ping me about **Development**, **Exlir**, **C#** **ReactJS**, **JavaScript**, **Typescript**, **Design thinking**
 - 📫 Reach me: [twitter.com/mudssrali](https://twitter.com/mudssrali)
 - ⚡️ Fun fact: I started working with computer programs at the age of 14 with `GW-BASIC`
 - ☕ [Buy me a coffee](https://ko-fi.com/mudassarali): till Github start sponsorship program in my country
