@@ -1,4 +1,4 @@
-### Hola 👋
+### Hi 👋
 
 #### I'm Fullstack Software Developer working in Lahore, Pakistan.
 
