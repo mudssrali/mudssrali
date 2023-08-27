@@ -6,7 +6,7 @@
 - ⚙️ I use daily: `.ex`, `.cs`, `.ts`, `.js`, `tsx`, `.html`, `.css`, `.svg`, `.md`
 - 🌍 I'm ocassionaly active within the **JS & TS community**
 - 🔭 Working on: [MISchool.pk](https://mischool.pk),[ScienceBowl](https://sciencebowl.pk), [MICare.pk](https://micare.pk)
-- 💅 Build: [North America Chesshub](https://www.nachesshub.com/), [MondayJobs](https://mondayjobs.ca), [Personal Website](https://mudssrali.com) etc...
+- 🏗️ Build: [North America Chesshub](https://www.nachesshub.com/), [MondayJobs](https://mondayjobs.ca), [Personal Website](https://mudssrali.com) etc...
 - 🌱 Learning all about **Educational Tools | Distributed Systems | Open Source**
 - 💬 Ping me about `Development`, `Exlir`, `C#`, `ReactJS`, `JavaScript`, `Typescript` & anything that has positive impact
 - 📫 Reach me: [x.com/mudssrali](https://twitter.com/mudssrali)
