@@ -3,9 +3,9 @@
 I’m Mudassar. I’m a Software Developer with 5 years of expertise in engineering leadership, product development and pragmatic problem solving. 
 Brought in various business impacts from shipping features fast to rearchitecting systems to handle millions in traffic, and to building high functioning engineering teams.
 
-- 🏢 I'm currently working at **[CERP LABS](https://labs.cerp.org.pk)**
+- 🏢 Leading Software Development at **[CERP LABS](https://cerp.org.pk/labs)**
 - ⚙️ I use daily: `.ex`, `.cs`, `.ts`, `.js`, `tsx`, `.html`, `.css`, `.svg`, `.md`
-- 🌍 I'm ocassionaly active within the **JS & TS community**
+- 🌍 I'm ocassionaly active within the **Elixir, JS & TS community**
 - 🔭 Building now: [SchoolX](https://schoolx.io) and [ScienceBowl](https://sciencebowl.pk)
 - 🏗️ Built: [North America Chesshub](https://www.nachesshub.com), [MondayJobs](https://mondayjobs.ca), [Personal Website](https://mudssrali.com) etc...
 - 🌱 Learning all about **Distributed Systems, Open Source and some frontier tech**
