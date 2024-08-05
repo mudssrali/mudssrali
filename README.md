@@ -6,7 +6,7 @@ Brought in various business impacts from shipping features fast to rearchitectin
 - 🏢 Leading Software Development at **[CERP Labs](https://cerp.org.pk/labs)**
 - ⚙️ I use daily: `.ex`, `.cs`, `.ts`, `.js`, `tsx`, `.html`, `.css`, `.svg`, `.md`
 - 🌍 I'm ocassionaly active within the **Elixir, JS & TS community**
-- 🔭 Building now: [SchoolX](https://schoolx.io) and [ScienceBowl](https://sciencebowl.pk)
+- 🔭 Building now: NOTHING, BUT RESTING ON BEACH 
 - 🏗️ Built: [North America Chesshub](https://www.nachesshub.com), [MondayJobs](https://mondayjobs.ca), [Personal Website](https://mudssrali.com) etc...
 - 🌱 Learning all about **Distributed Systems, Open Source and some frontier tech**
 - 💬 Ping me about `Software Development`, `Exlir`, `C#`, `NodeJS`, `ReactJS`, `JavaScript`, `Typescript` & anything that has positive impact
