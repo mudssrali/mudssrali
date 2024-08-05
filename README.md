@@ -3,7 +3,7 @@
 I’m Mudassar. I’m a Software Developer with 5+ years of expertise in engineering leadership, product development and pragmatic problem solving. 
 Brought in various business impacts from shipping features fast to rearchitecting systems to handle millions in traffic, and to building high functioning engineering teams.
 
-- 🏢 Leading Software Development at **[CERP Labs](https://cerp.org.pk/labs)**
+- 🏢 Building software around the World!
 - ⚙️ I use daily: `.ex`, `.cs`, `.ts`, `.js`, `tsx`, `.html`, `.css`, `.svg`, `.md`
 - 🌍 I'm ocassionaly active within the **Elixir, JS & TS community**
 - 🔭 Building now: NOTHING, BUT RESTING ON BEACH 
