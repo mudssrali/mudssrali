@@ -12,5 +12,4 @@ Brought in various business impacts from shipping features fast to rearchitectin
 - 💬 Ping me about `Software Development`, `Exlir`, `C#`, `NodeJS`, `ReactJS`, `JavaScript`, `Typescript` & anything that has positive impact
 - 📫 Reach me: [x.com/mudssrali](https://x.com/mudssrali)
 - ⚡️ Fun fact: I started working with computer programs at the age of 14 with `GW-BASIC`
-- ☕ [Buy me a coffee](https://ko-fi.com/mudassarali): till Github start sponsorship program in my country
 <p align="left"> <img src="http://komarev.com/ghpvc/?username=mudssrali&style=flat&color=blueviolet" alt="mudassar-ali"/> </p>
